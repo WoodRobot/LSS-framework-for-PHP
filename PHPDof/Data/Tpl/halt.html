@@ -1,0 +1,67 @@
+<br><fieldset>
+<legend>Fatal error：</legend>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<title>System Error!</title>
+<style>
+body{
+    font-family: Microsoft YaHei;
+}
+._halt{
+    margin-top:30px;
+    width:100%;
+}
+a:link {
+font-size: 10px;
+color: #666666;
+text-decoration: none;
+}
+a:visited {
+font-size: 10px;
+color: #666666;
+text-decoration: none;
+}
+a:hover {
+font-size: 10px;
+color: #666666;
+text-decoration: underline;
+} 
+
+</style>
+</head>
+<body>
+<span style='font-size:110px'>:(</span><br><br>
+<span style='font-size:20px'><b><?php echo $e['message'] ?></b></span><br>
+<br>
+<?php if(DEBUG && isset($e['file'])) : ?>
+<span style='font-size:1px'><?php p('错误文件:'.$e['file'] . $e['line']) ?></span><br>
+<?php endif ?>
+
+<?php if(isset($e['trace'])) : ?>
+<span style='font-size:10px'><?php p(nl2br($e['trace']),false,'Microsoft YaHei','1px') ?></span><br><br>
+<?php endif ?>
+
+<span style='font-size:1px'>PHPCORE Version.<?php echo PHPDOF_VERSION ?></span><br>
+</body>
+</html>
+
+
+<script>
+var url = "'<?php echo $url ?>'";
+var time = '<?php echo $time ?>';
+var i=0;
+function go() {
+    i++;
+    document.getElementById('time').innerHTML = time/1000-i;
+    if (i==time/1000) {
+        i=0;
+        window.location = url;
+        return;
+    }
+    setTimeout('go()', 1000);
+}
+setTimeout('go()', 1000);
+</script>
+</fieldset>

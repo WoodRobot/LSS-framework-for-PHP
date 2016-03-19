@@ -1,0 +1,14 @@
+[TIME]2016-02-06 01:02:56 ERROR:D:/Mobile/PHPCore/Extends/Tool/runtime.class.php&nbsp;Class was not found!
+[TIME]2016-02-06 01:02:05 ERROR:D:/Mobile/PHPCore/Extends/Tool/runtime.class.php&nbsp;Class was not found!
+[TIME]2016-02-06 01:02:09 ERROR:D:/Mobile/PHPCore/Extends/Tool/runtime.class.php&nbsp;Class was not found!
+[TIME]2016-02-06 01:02:09 ERROR:D:/Mobile/PHPCore/Extends/Tool/runtime.class.php&nbsp;Class was not found!
+[TIME]2016-02-06 01:02:16 ERROR:D:/Mobile/PHPCore/Extends/Tool/runtime.class.php&nbsp;Class was not found!
+[TIME]2016-02-06 01:02:01 ERROR:1 was not found in IndexController
+[TIME]2016-02-06 01:02:37 ERROR:Call to undefined function is_set()<br>D:\Mobile\PHPCore\Lib\Core\Application.class.php  in 27
+[TIME]2016-02-06 02:02:55 ERROR:Call to undefined method iSql::query()<br>D:\Mobile\Index\Controller\IndexController.class.php  in 19
+[TIME]2016-02-06 02:02:05 ERROR:D:/Mobile/PHPCore/Extends/Tool/iSql2.class.php&nbsp;Class was not found!
+[TIME]2016-02-06 02:02:06 ERROR:D:/Mobile/PHPCore/Extends/Tool/iSql2.class.php&nbsp;Class was not found!
+[TIME]2016-02-06 02:02:58 ERROR:Mysql was not set!
+[TIME]2016-02-06 02:02:26 ERROR:syntax error, unexpected 'public' (T_PUBLIC)<br>D:\Mobile\PHPCore\Extends\Tool\sql_model.class.php  in 3
+[TIME]2016-02-06 02:02:29 ERROR:syntax error, unexpected 'public' (T_PUBLIC)<br>D:\Mobile\PHPCore\Extends\Tool\sql_model.class.php  in 3
+[TIME]2016-02-06 02:02:33 ERROR:syntax error, unexpected 'public' (T_PUBLIC)<br>D:\Mobile\PHPCore\Extends\Tool\sql_model.class.php  in 3

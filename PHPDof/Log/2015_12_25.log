@@ -1,0 +1,50 @@
+[TIME]2015-12-25 12:12:57 ERROR:Call to undefined method Model::findAll()<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 10
+[TIME]2015-12-25 12:12:25 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 19]: syntax error: foreach: missing 'item' attribute (Smarty_Compiler.class.php, line 1171)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 01:12:44 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 18]: syntax error: unrecognized tag: $a[0]['pwd'] (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 01:12:43 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 19]: syntax error: unrecognized tag: $id['pwd'] (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 01:12:40 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 18]: syntax error: foreach: missing 'from' attribute (Smarty_Compiler.class.php, line 1166)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 01:12:41 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 18]: syntax error: invalid attribute name: '=' (Smarty_Compiler.class.php, line 1551)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 01:12:46 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 18]: syntax error: invalid attribute name: '=' (Smarty_Compiler.class.php, line 1551)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 01:12:59 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 19]: syntax error: unrecognized tag 'value' (Smarty_Compiler.class.php, line 591)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 01:12:28 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 19]: syntax error: unrecognized tag: print_r($value) (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 07:12:46 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 19]: syntax error: unrecognized tag: #foreach item=a from=$a# (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 07:12:54 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 19]: syntax error: unrecognized tag: #foreach item=a from=$a# (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 07:12:02 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 19]: syntax error: unrecognized tag: #foreach item=pwd from=$a# (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 07:12:14 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 28]: syntax error: unrecognized tag: /foreach# (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 07:12:32 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 27]: syntax error: unrecognized tag: /foreach# (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 07:12:39 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 27]: syntax error: unrecognized tag: /foreach# (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 07:12:48 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 27]: syntax error: unrecognized tag: /foreach# (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 08:12:35 ERROR:Smarty error: [in G:/WWW/PHPCore/Index/Tpl/Index/Index.html line 20]: syntax error: unrecognized tag: download() (Smarty_Compiler.class.php, line 447)<br>G:\WWW\PHPCore\PHPCore\Extends\Org\Smarty\Smarty.class.php  in 1093
+[TIME]2015-12-25 08:12:58 ERROR:Call to undefined function download()<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 9
+[TIME]2015-12-25 08:12:58 ERROR:Call to undefined function download()<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 9
+[TIME]2015-12-25 08:12:58 ERROR:Call to undefined function download()<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 9
+[TIME]2015-12-25 08:12:59 ERROR:Call to undefined function download()<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 9
+[TIME]2015-12-25 08:12:00 ERROR:Call to undefined function download()<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 9
+[TIME]2015-12-25 08:12:30 ERROR:Function name must be a string<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 14
+[TIME]2015-12-25 08:12:44 ERROR:syntax error, unexpected 'download' (T_STRING)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 16
+[TIME]2015-12-25 08:12:50 ERROR:syntax error, unexpected '$this' (T_VARIABLE)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 16
+[TIME]2015-12-25 08:12:53 ERROR:syntax error, unexpected '$this' (T_VARIABLE)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 16
+[TIME]2015-12-25 08:12:23 ERROR:syntax error, unexpected 'download' (T_STRING)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 16
+[TIME]2015-12-25 08:12:25 ERROR:syntax error, unexpected 'download' (T_STRING)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 16
+[TIME]2015-12-25 08:12:32 ERROR:syntax error, unexpected 'download' (T_STRING)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 19
+[TIME]2015-12-25 08:12:32 ERROR:syntax error, unexpected 'download' (T_STRING)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 19
+[TIME]2015-12-25 08:12:51 ERROR:syntax error, unexpected 'download' (T_STRING)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 17
+[TIME]2015-12-25 08:12:19 ERROR:syntax error, unexpected '$message' (T_VARIABLE)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 18
+[TIME]2015-12-25 08:12:20 ERROR:syntax error, unexpected '$message' (T_VARIABLE)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 18
+[TIME]2015-12-25 08:12:21 ERROR:syntax error, unexpected '$message' (T_VARIABLE)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 18
+[TIME]2015-12-25 08:12:34 ERROR:syntax error, unexpected 'break' (T_BREAK)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 19
+[TIME]2015-12-25 08:12:35 ERROR:syntax error, unexpected 'break' (T_BREAK)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 19
+[TIME]2015-12-25 08:12:39 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 21
+[TIME]2015-12-25 08:12:39 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 21
+[TIME]2015-12-25 08:12:05 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 21
+[TIME]2015-12-25 08:12:11 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 21
+[TIME]2015-12-25 08:12:14 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 21
+[TIME]2015-12-25 08:12:15 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 21
+[TIME]2015-12-25 08:12:55 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 22
+[TIME]2015-12-25 08:12:01 ERROR:syntax error, unexpected 'default' (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 20
+[TIME]2015-12-25 08:12:02 ERROR:syntax error, unexpected 'default' (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 20
+[TIME]2015-12-25 08:12:02 ERROR:syntax error, unexpected 'default' (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 20
+[TIME]2015-12-25 08:12:06 ERROR:syntax error, unexpected '}', expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT)<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 22
+[TIME]2015-12-25 08:12:52 ERROR:G:/WWW/PHPCore/Index/Tpl/dom/Index.html模板文件不存在
+[TIME]2015-12-25 08:12:54 ERROR:G:/WWW/PHPCore/Index/Tpl/dom/Index.html模板文件不存在
+[TIME]2015-12-25 08:12:52 ERROR:Call to undefined function allTool()<br>G:\WWW\PHPCore\Index\Controller\IndexController.class.php  in 19
